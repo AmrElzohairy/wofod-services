@@ -21,20 +21,18 @@
 <ul>
   <li>🔑 <strong>Authentication</strong> (Sign up &amp; Login)</li>
   <li>🌗 <strong>Dark &amp; Light Themes</strong> support</li>
-  <li>🚆 <strong>Travel Bookings</strong> (trains, airports)</li>
-  <li>🏨 <strong>Hotel Reservations</strong> and receptions</li>
-  <li>👥 <strong>Multi-user Data</strong> (send your data + other companions’ data)</li>
-  <li>💬 <strong>Chat</strong> with service providers</li>
   <li>📍 <strong>Live Location</strong> tracking</li>
   <li>🔔 <strong>Push Notifications</strong></li>
+  <li>💬 <strong>1-to-1 Chat & Group Chats</strong></li>
 </ul>
+
 
 <h2>🛠️ Tech Stack</h2>
 <ul>
   <li><strong>Flutter</strong> (Dart)</li>
   <li><strong>Bloc / Cubit</strong> for state management</li>
   <li><strong>Dio</strong> for API integration</li>
-  <li><strong>Firebase</strong> (Notifications, Chat, Live location)</li>
+  <li><strong>Firebase</strong> (Notifications)</li>
   <li><strong>Clean Architecture</strong> (Domain, Data, Presentation layers)</li>
 </ul>
 
@@ -43,18 +41,25 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github.com/user-attachments/assets/de867725-9753-40a0-9efa-a170f2082a6c" width="200"></td>
-      <td><img src="https://github.com/user-attachments/assets/c2da6e20-1e7c-4c4b-a1e3-bde327ae3996" width="200"></td>
-      <td><img src="https://github.com/user-attachments/assets/adeebbc8-96e1-45b3-b0a8-527ee75b82f6" width="200"></td>
+      <td><img src="https://github.com/user-attachments/assets/12fbf949-0c9a-4309-bc2c-4d3f14864a43" width="200"></td>  
+      <td><img src="https://github.com/user-attachments/assets/2938d9f5-2acc-449c-9c61-095a9383e2e3" width="200"></td>
+      <td><img src="https://github.com/user-attachments/assets/309f7f84-aaf2-4c9c-87ba-cafe7391f6da" width="200"></td>
     </tr>
     <tr>
-      <td><img src="https://github.com/user-attachments/assets/338c8b46-8ed0-4174-aa73-1a065fe63719" width="200"></td>
-      <td><img src="https://github.com/user-attachments/assets/3ba46abf-cf80-497e-a02e-27810276f440" width="200"></td>
-      <td><img src="https://github.com/user-attachments/assets/cb4eaf39-47bd-4d35-944e-bd8bd97808bf" width="200"></td>
+      <td><img src="https://github.com/user-attachments/assets/2c454edb-ce72-42d0-b7d1-655b465e19b8" width="200"></td>
+      <td><img src="https://github.com/user-attachments/assets/7567daea-8081-4d14-ab8c-b791c0d0f4e9" width="200"></td>
+      <td><img src="https://github.com/user-attachments/assets/e408c369-0746-4cbb-b2bd-98f7dfa00f94" width="200"></td>
     </tr>
     <tr>
-      <td><img src="https://github.com/user-attachments/assets/7849e2de-9918-4fb4-a196-9bbe9664af5c" width="200"></td>
-      <td><img src="https://github.com/user-attachments/assets/fff6bc05-b7ae-4f6c-a8d1-4867146d9a35" width="200"></td>
+      <td><img src="https://github.com/user-attachments/assets/98f5505e-882a-4bec-b9f5-2117fa9bbbe0" width="200"></td>
+      <td><img src="https://github.com/user-attachments/assets/0551f012-272d-43ce-9560-332c4b55eec0" width="200"></td>
+      <td><img src="https://github.com/user-attachments/assets/22589c99-dda3-4434-a32c-387e9c2c2cfd" width="200"></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/7585de66-e840-47d4-9d64-44a39be3f7d7" width="200"></td>
+      <td><img src="https://github.com/user-attachments/assets/e26090a5-97d6-468f-93dc-14fe2da39630" width="200"></td>
     </tr>
   </table>
 </div>
+
+
